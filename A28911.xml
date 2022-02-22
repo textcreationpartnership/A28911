@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable the Lord Mayor and aldermen of the city of London, at Guild-Hall chappel, on Sunday, Novemb. 13, 1692 by Richard Bowchier ...</title>
+            <author>Bowchier, Richard, 1660 or 61-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28911</idno>
+            <idno type="STC">Wing B3867</idno>
+            <idno type="STC">ESTC R19525</idno>
+            <idno type="EEBO-CITATION">13058150</idno>
+            <idno type="OCLC">ocm 13058150</idno>
+            <idno type="VID">97013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97013)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 409:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable the Lord Mayor and aldermen of the city of London, at Guild-Hall chappel, on Sunday, Novemb. 13, 1692 by Richard Bowchier ...</title>
+                  <author>Bowchier, Richard, 1660 or 61-1723.</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Galatians V, 25 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97013:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the Right Honourable the Lord Mayor and Aldermen OF THE City of London, AT <hi>Guild-Hall</hi> Chappel, On <hi>Sunday, Novemb.</hi> 13. 1692. By RICHARD BOWCHIER, B. D. Fellow of St. <hi>John</hi>'s College in <hi>Cambridge,</hi> and Chaplain to the Right Reverend Father in God, <hi>Robert,</hi> Lord Biſhop of <hi>Chicheſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhops-Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97013:2"/>
+            <pb facs="tcp:97013:2"/>
+            <head>TO THE Right Honourable Sir John Fleet, Lord Mayor of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>WHen I was appointed to Preach before Your Lordſhip, I little imagined, That what was then delivered, would have ever receiv'd Your Lordſhips Orders to be made Pub<g ref="char:EOLhyphen"/>lick. I am, my Lord, truly conſcious to my ſelf of the meanneſs of this Diſcourſe;
+<pb facs="tcp:97013:3"/>but, inſtead of making Apologies, I here entirely reſign my ſelf to Your Lordſhip's Commands; which both ſhews my Obedi<g ref="char:EOLhyphen"/>ence, and, at the ſame time, furniſhes me with an excellent opportunity of tel<g ref="char:EOLhyphen"/>ling the World with what a great Re<g ref="char:EOLhyphen"/>ſpect and Duty I am,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt Humble, and moſt obedient Servant RICHARD BOWCHIER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:97013:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Galatians,</hi> chap. <hi>5.</hi> ver. <hi>25.</hi>
+                  </bibl>
+                  <p>If we live in the Spirit, let us alſo walk in the Spirit.</p>
+               </q>
+            </epigraph>
+            <p>THE words ſeem to be an earneſt and paſſionate Exhortation to the practice of a Religious and a Chriſtian Life, drawn from that particular and exact account of the Works of the <hi>Fleſh,</hi> and the Fruit of the <hi>Spirit,</hi> which the Apoſtle has given us, from the 18th to the 24th verſe of this Chap<g ref="char:EOLhyphen"/>ter; and the occaſion of them, in ſhort, was this. As the Church of <hi>God</hi> has in all Ages been troubled with Men of corrupt Morals, and pernicious Principles; ſo in the very firſt beginnings of Chriſtianity, there roſe up a ſort of Men, who, as they were the firſt He<g ref="char:EOLhyphen"/>reticks we ever read of, ſo for their damnable Opinions, and wicked Lives, have much out<g ref="char:EOLhyphen"/>done all others of ſucceeding Times. They were Men in whom there appeared wonder<g ref="char:EOLhyphen"/>ful Falſeneſs and Deſign; and who taking al<g ref="char:EOLhyphen"/>ways advantage of the Apoſtle's Abſence, had
+<pb n="2" facs="tcp:97013:4"/>by their falſe and pleaſing Doctrines, almoſt every where corrupted that Faith which the other planted. Thus we find that they imme<g ref="char:EOLhyphen"/>diately crept in amongſt the Churches in the <hi>
+                  <g ref="char:V">Ʋ</g>pper Aſia,</hi> where they made ſuch ſpeedy work in perverting the Goſpel; and had by new Scruples and falſe Suggeſtions, ſo quick<g ref="char:EOLhyphen"/>ly ſhaken that Faith, which at firſt ſeemed ſo well grounded in the <hi>Galatians,</hi> as occaſioned that mighty ſurpriſe in St. <hi>Paul,</hi> to find ſuch a ſudden change and alteration amongſt them: <hi>I marvel</hi> (ſaith he, <hi>Galat.</hi> chap. 1. ver. 6.) <hi>that you are ſo ſoon removed from him, who called you into the Grace of Chriſt unto another Goſpel.</hi> Theſe Deceivers deſigning nothing but Eaſe and Intereſt, urged vehemently on the new Converted Chriſtians Circumciſion, and other Moſaical Rites; not out of any Principle, or a real Perſwaſion there was in them of the neceſſity of either, but from a baſe and ſer<g ref="char:EOLhyphen"/>vile compliance to the humour of the <hi>Jews,</hi> hoping this way either to gain their Favour, or eſcape their Fury: <hi>For they conſtrained o<g ref="char:EOLhyphen"/>thers to be Circumciſed,</hi>
+               <note place="margin">
+                  <hi>Galat.</hi> 6.12, 13.</note> 
+               <hi>only leaſt they them<g ref="char:EOLhyphen"/>ſelves ſhould ſuffer Perſecution for the Croſs of Chriſt; for neither they themſelves</hi> (ſaith the Apoſtle) <hi>who were Circumciſed kept the Law,
+<pb n="3" facs="tcp:97013:4"/>but deſired to have others Circumciſed, that they might glory in the Fleſh.</hi> And as it is eaſie and natural for Men, who can once force their Conſciences, either for fear or Intereſt, to ſtick at nothing afterwards, how black or de<g ref="char:EOLhyphen"/>ſperate ſoever it may be, when they are preſt to it by the like motives; ſo theſe Men having once Preached up Circumciſion, for fear of the <hi>Jews,</hi> made no ſcruple afterwards to declare it lawful to deny even Chriſt himſelf, to avoid Per<g ref="char:EOLhyphen"/>ſecution for him:
+<note place="margin">2 <hi>Pet.</hi> 2.1.</note> 
+               <hi>Thus denying the Lord who bought them.</hi> Theſe are the Men whom the Apoſtles point at in almoſt all their Epiſtles; and on whom they beſtow ſuch black and diſmal Characters, as never could have been faſtned but on the worſt of Men:
+<note place="margin">
+                  <hi>Phil.</hi> 3.19.</note> 
+               <hi>Enemies</hi> (ſaith St. <hi>Paul) to the Croſs of Chriſt, whoſe God was their Belly, whoſe Glory their ſhame, who minded Earthly things: Without natural Affe<g ref="char:EOLhyphen"/>ction, Truce-breakers, Falſe Accuſers, Incontinent,</hi>
+               <note place="margin">2 <hi>Tim.</hi> 3, 4.</note> 
+               <hi>Fierce, Deſpiſers of thoſe that were Good. Tray<g ref="char:EOLhyphen"/>tors, heady, high-minded, lovers of Pleaſures, more than lovers of God, having a form of God<g ref="char:EOLhyphen"/>lineſs, but denying the Power thereof.</hi> St. <hi>Peter</hi>'s Character is no leſs ſevere concerning them, in his ſecond Epiſtle, whom he ſtiles,
+<note place="margin">
+                  <hi>Chap.</hi> 2.</note> 
+               <hi>Natural brute Beaſts, ſpots and blemiſhes, beguiling, unſtable
+<pb n="4" facs="tcp:97013:5"/>Soulss, Wells without Water, Clouds</hi> (ſaith he) <hi>that were carried with a Tempeſt, to whom the Miſt of Darkneſs was reſerved for ever. <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>godly Men</hi> (ſaith St.
+<note place="margin">
+                  <hi>Ver.</hi> 4.</note> 
+               <hi>Jude,</hi> ſpeaking of the ſame Perſons) <hi>turning the Grace of God into Laſciviouſneſs, and denying the only Lord God, and our Lord Jeſus Chriſt.</hi> Theſe are the cou<g ref="char:EOLhyphen"/>lours in which they are ſet forth to us by the Apoſtles of our Lord; and as theſe Chara<g ref="char:EOLhyphen"/>cters to be ſure were exactly drawn from their Carriages, ſo then there is nothing can be thought ſo wicked and abominable, ſo con<g ref="char:EOLhyphen"/>trary to Reaſon, and ſo deſtructive to Religion, as that of which theſe Men were guilty, and of which they ſtand recorded infamous to all ſucceeding Times. Pleaſure and Intereſt be<g ref="char:EOLhyphen"/>ing that great principle that inſpired all their Actions, they followed that to the uttermoſt. And as Mens Inclinations and Deſires com<g ref="char:EOLhyphen"/>monly give a huge byaſs to their Underſtand<g ref="char:EOLhyphen"/>ings, ſo they falſly interpreted and uſed that liberty which the Goſpel had given them, as an <hi>occaſion to the Fleſh;</hi> pretending that Chriſt, in effect, had ſet them free from that ſtrict and Religious courſe of Vertue and Goodneſs which he came on purpoſe to eſtabliſh: And thus indulging themſelves in the moſt vicious
+<pb n="5" facs="tcp:97013:5"/>practices, and juſtifying what they did by high pretences of knowledge, they were too far gone in conceit to be reclaimed themſelves, and too buſie and malicious not to corrupt others by their Examples. The Infection of theſe Mens Principles had, like a ſtrong Poy<g ref="char:EOLhyphen"/>ſon, diffuſed it ſelf thro' the Body of all the Churches; for the greateſt part of Mankind being naturally unſtable, and not being able ſo eaſily to penetrate into the Deſigns and Artifices of falſe Teachers; The greateſt and moſt corrupt part of any Communion will commonly embrace and follow thoſe Doctrines which ſuit beſt with their Pleaſures and Inte<g ref="char:EOLhyphen"/>reſts: And thus the caſe was now particularly in the Churches of the <hi>Galatians,</hi> whoſe Cha<g ref="char:EOLhyphen"/>racter indeed is this, <hi>That they did run well,</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 5.7.</note> 
+               <hi>but were afterwards ſo fooliſh and bewitched as not to obey the Truth,</hi>
+               <note place="margin">
+                  <hi>Chap.</hi> 3. <hi>v.</hi> 1</note> 
+               <hi>before whoſe Eyes Jeſus Chriſt had been evidently ſet forth Crucified amongſt them:</hi> For at the time of St. <hi>Paul</hi>'s Writing this Epiſtle, inſtead of adhering to that Goſpel which he had at firſt ſo ſucceſsfully Preached unto them, and which he tells them in his own defence,
+<note place="margin">
+                  <hi>Ch.</hi> 1. <hi>v.</hi> 12.</note> 
+               <hi>Was that which he re<g ref="char:EOLhyphen"/>ceived not of Man, neither was taught it, but by the Revelation of Jeſus Chriſt:</hi> They were
+<pb n="6" facs="tcp:97013:6"/>drawn off, it ſeems, by the Inſinuations of wicked and deſigning Men, <hi>deſiring again to be under the Law,</hi> and to obſerve Circumciſion. As the general drift therefore of the Apoſtle in this Epiſtle is to ſhew them that this new diſpenſa<g ref="char:EOLhyphen"/>tion of the Goſpel, had freed them from the rigour of the Law, that is, from the neceſſity of Mofaical Rights and Obſervances, and from that exact and perfect Obedience requi<g ref="char:EOLhyphen"/>red under the Penalty of the Curſe: So a<g ref="char:EOLhyphen"/>gain, leaſt under pretence of that freedom which the Goſpel had given them, they ſhould be guilty of thoſe vicious Practices, which their falſe Teachers ſo induſtriouſly endea<g ref="char:EOLhyphen"/>voured to infuſe; He adviſes them particu<g ref="char:EOLhyphen"/>larly in this Chapter, to order all their acti<g ref="char:EOLhyphen"/>ons according to the Spirit of that Goſpel which they had received: and if they preten<g ref="char:EOLhyphen"/>ded to Chriſtianity, they ſhould follow the Rules it preſcribes. <hi>If we live in the Spirit</hi> (ſaith he) <hi>let us alſo walk in the Spirit.</hi>
+            </p>
+            <p>Having ſpoken thus much concerning that which gave occaſion to the Words; I ſhall now proceed to tell you,</p>
+            <p>Firſt, <hi>What it is to walk in the Spirit.</hi>
+            </p>
+            <p>Secondly, <hi>How we ſhall know when we are in the Spirit.</hi>
+            </p>
+            <pb n="7" facs="tcp:97013:6"/>
+            <p>Thirdly, <hi>I ſhall ſhew the Obligations which lie on us all to walk in the Spirit.</hi>
+            </p>
+            <p>And Laſtly, <hi>From what ſhall be thus ſaid, I ſhall conclude all with ſome cloſe reflections on our own Lives and Practices.</hi>
+            </p>
+            <p n="1">1. Then, <hi>What it is to Walk in the Spirit.</hi> The word <hi>Spirit</hi> has many and very dif<g ref="char:EOLhyphen"/>ferent ſignifications in the Holy Scriptures; and it would be no leſs tedious than improper to reckon them all up in this place. Some<g ref="char:EOLhyphen"/>times it is taken for that ſupream divine fa<g ref="char:EOLhyphen"/>culty that is in us, the Soul of Man, and for the various Paſſions of Joy or Grief, which either pleaſe or diſturb us. Sometimes it is taken for a temper of Religion; for an oeco<g ref="char:EOLhyphen"/>nomy or diſpenſation which is ſettled and pre<g ref="char:EOLhyphen"/>ſcribed us by God. Thus the Law is called, <hi>Rom.</hi> 8.15. <hi>The Spirit of Bondage,</hi> which in<g ref="char:EOLhyphen"/>deed was a ſevere and an harſh diſpenſation, ſo oppoſite to that which in the ſame Verſe is called, <hi>The Spirit of Adoption,</hi> which is that tender and gentle way of God's proceeding with us now under the Goſpel. And in this ſence of a temper of Religion, is to be taken, our Saviour's Anſwer to his Diſciples, in his paſſage thro' <hi>Samaria,</hi> when ſome of them
+<pb n="8" facs="tcp:97013:7"/>were all tranſport and fury at the inhoſpitali<g ref="char:EOLhyphen"/>ty of the <hi>Samaritans,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 9.53.</note> who <hi>would not receive our Lord, becauſe his Face was as though he would go to</hi> Jeruſalem; and therefore they being im<g ref="char:EOLhyphen"/>patient to ſhew a Revenge proportionable to the Affront they thought our Lord had recei<g ref="char:EOLhyphen"/>ved, waited only for a Commiſſion from him of <hi>Commanding Fire to come down from Heaven. Lord</hi> (ſaid they) <hi>wilt thou that we command Fire to come down from Heaven &amp; conſume them, as</hi> Elias <hi>did.</hi> But the bleſſed Jeſus <hi>turned and rebuked them,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 55.</note> 
+               <hi>and ſaid, Ye know not what manner of Spirit ye are of;</hi> that is, ye know not that that oeconomy or diſpenſation, which I intend to eſtabliſh by the Goſpel, inſpires Men with eaſie and with forbearing Tempers; and with a higher de<g ref="char:EOLhyphen"/>gree of Charity than was ever yet required or practiſed by the Prophets under the Law: For theſe Men were often moved and impowered with an inward Zeal to deſtroy, without any more ado the Enemies of God. But the tem<g ref="char:EOLhyphen"/>per of the Goſpel is to be otherwiſe; for <hi>The Son of Man</hi> (ſaith he) <hi>came not to deſtroy Mens Lives but to ſave them.</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 56.</note> Sometimes the word <hi>Spirit</hi> is taken for thoſe ſuper-natural and ex<g ref="char:EOLhyphen"/>traordinary Gifts of the Holy Ghoſt, which were ſo very common in the firſt Ages of the
+<pb n="9" facs="tcp:97013:7"/>Church: Thus St. <hi>Paul</hi> arguing in this Epiſtle with the <hi>Galatians,</hi> about the wonderful Ad<g ref="char:EOLhyphen"/>vantages they had received upon their embra<g ref="char:EOLhyphen"/>cing the Goſpel, ſays,
+<note place="margin">
+                  <hi>Gal.</hi> 3.2.</note> 
+               <hi>This only would I learn of you, Received you the Spirit by the Works of the Law, or by the hearing of Faith?</hi> where by the Spirit is to be underſtood the ſeveral Gifts of it, and the diverſities of Operations, of which we have a particular account given in the 12. Ch. of the 1ſt of the <hi>Corinthians,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 7.</note> 
+               <hi>And which were given to every Man to proſit withal.</hi> But not to run on in many and foreign ſignifica<g ref="char:EOLhyphen"/>tions of the Word; by the Spirit in the Text, is only and properly (as I judge) to be under<g ref="char:EOLhyphen"/>ſtood the Goſpel it ſelf; in which ſence, both in this and in other places of St. <hi>Paul</hi>'s Epi<g ref="char:EOLhyphen"/>ſtles, it is taken as oppoſed to the Law ſet forth under the Title of the <hi>Fleſh.</hi> So then by <hi>walking in the Spirit</hi> is here to be meant, the governing ones ſelf according to the Rules and Precepts of the Goſpel: The imitating that ſacred Temper of which we have the Commands and Pat<g ref="char:EOLhyphen"/>tern in Chriſt: And inſtead of following the Luſts and Deſires of the Fleſh, the ſecu<g ref="char:EOLhyphen"/>lar and ſenſual Ends to which this World na<g ref="char:EOLhyphen"/>turally carries Men; and which are ſo eager<g ref="char:EOLhyphen"/>ly
+<pb n="10" facs="tcp:97013:8"/>purſued by the greateſt part of Mankind; We ſhould ſtrictly live up to the Religion we profeſs, by <hi>ordering our Converſation according to the Goſpel of Chriſt.</hi>
+            </p>
+            <p>And this will, 2dly, inform us how <hi>We ſhall know when we are in the Spirit.</hi> There have been in all Ages of the Church ſtrange Pre<g ref="char:EOLhyphen"/>tenders to the Spirit, and to the immediate Inſpirations of it; which is a thing no leſs vain in it ſelf, than pernicious in its Conſe<g ref="char:EOLhyphen"/>quences. Men of dark and melancholy Tempers are thoſe who moſt commonly run this way; for they being the Perſons who generally Think moſt, and in whom im<g ref="char:EOLhyphen"/>preſſions being once made, ſtick the lon<g ref="char:EOLhyphen"/>geſt; when ever it happens that they en<g ref="char:EOLhyphen"/>tertain any falſe Opinions in Religion, they are always defended by them with that Obſti<g ref="char:EOLhyphen"/>nacy and inward Pride, as will not admit the leaſt contradiction. So that the moſt convin<g ref="char:EOLhyphen"/>cing Reaſons and powerful Arguments, which commonly have a happy and good effect on free and ingenuous Minds, do but make theſe Men the worſe: and the greater oppoſition they at any time find from Reaſon or publick Authority, the more they value themſelves up<g ref="char:EOLhyphen"/>on their oppoſition to both. And thus the vio<g ref="char:EOLhyphen"/>lent
+<pb n="11" facs="tcp:97013:8"/>working of Conceit, and a ſpiritual Pride raiſes within them an odd heat and Zeal, which at laſt turns it ſelf into down-right Enthuſi<g ref="char:EOLhyphen"/>aſm; and thus theſe Men unhappily miſtaking a warmth and tranſport within them for Di<g ref="char:EOLhyphen"/>vine Inſpiration, and looking on that as a ſuper-natural effect, which really, after all, is but the pure notions of Blood and Spirits, They are from hence often guilty of thoſe ex<g ref="char:EOLhyphen"/>travagancies, in which neither Reaſon nor Re<g ref="char:EOLhyphen"/>ligion can juſtifie them; and of which ours, as well as other Neighbouring Countries, have often felt the ſad and lamentable Effects. But after all, let ſome Mens pretences be what they pleaſe to inward Motions and immediate In<g ref="char:EOLhyphen"/>ſpirations of the Spirit, this is certain and in<g ref="char:EOLhyphen"/>fallible, That as God has only left us his Word in the Scriptures as the ſole Rule and Meaſure of our Obedience, and according to which we are to direct and govern our Lives and Acti<g ref="char:EOLhyphen"/>ons; ſo he that performs the things which the Revealed Will of God requires of us may reſt aſſured, that he is in the Spirit; <hi>For he</hi> (ſaith St. <hi>John</hi> in his firſt Epiſtle, chap. 3. ver. 24.) <hi>that keepeth God's Commandments dwelleth in him, and he in him.</hi> The Scriptures (I ſay) being the only Rule now left us, by which we can judge of the goodneſs or pravity of our
+<pb n="12" facs="tcp:97013:9"/>Actions, every one may hence eaſily know and conclude in himſelf, whether he is in the Spirit, by being conſcious to himſelf, whether he forms his Life and Actions according to the Precepts laid down in the Goſpel, as the only meaſure of his Obedience: And this I dare ſay, that each particular Man, or publick Com<g ref="char:EOLhyphen"/>munion of Chriſtians, of what denomination or Country ſoever it may be, has moſt of the Spirit, that comes the neareſt to this Rule. Chriſtianity requires of us all a firm Faith and a ſincere Obedience to the things it enjoyns; and he that hath the firſt, and faithfully diſ<g ref="char:EOLhyphen"/>chargeth the latter, that is, he who hath a Faith to believe what is required, and lives ex<g ref="char:EOLhyphen"/>actly according to his belief, may be aſſured that he is in the Spirit, becauſe he does that which God requires of him; and for which he ſhall hereafter receive that exceeding great Reward which God has promiſed in his Word. That the governing ones Life and Actions ac<g ref="char:EOLhyphen"/>cording to the rules and temper of the Goſpel, is the being in the Spirit, is a truth beſides as ſafe as it is certain; for he who orders himſelf this way, will be ſure never to do amiſs, be<g ref="char:EOLhyphen"/>cauſe he will always modeſtly keep within the bounds which his duty preſcribes him: Where<g ref="char:EOLhyphen"/>as he who is led by other notions of being in
+<pb n="13" facs="tcp:97013:9"/>the Spirit, and has no other rule for his Acti<g ref="char:EOLhyphen"/>ons but that motion and warmth he feels with<g ref="char:EOLhyphen"/>in him, may eaſily, by miſtaking a hot and extravagant Fancy for the ſacred impulſe of the Holy Spirit, be guilty of very bad things, and thus too often be unluckily found a <hi>Figh<g ref="char:EOLhyphen"/>ter againſt God,</hi> at that very time he thinks him<g ref="char:EOLhyphen"/>ſelf immediately Inſpired by Him. From what therefore has been ſaid, every ſober and ſeri<g ref="char:EOLhyphen"/>ous Man may eaſily know and conclude when he is in the Spirit; if he ſhews in every thing he does that Temper which the Goſpel requires of us; if in a ſteady and regular Converſati<g ref="char:EOLhyphen"/>on of Life, he expreſſeth that <hi>Love, Joy, Peace, Long-ſuffering,</hi> that <hi>Gentleneſs, Goodneſs, Faith,</hi> that <hi>Meekneſs</hi> and <hi>Temperance,</hi> Vertues againſt which there is no Law, and that are all of them ſo eminently required in Chriſtians; let ſuch a one go on as he has begun, and never doubt of his being in the Spirit, becauſe he ſhews ſo much of that which St. <hi>Paul</hi> calls the <hi>Fruit of it.</hi> On the other hand,
+<note place="margin">
+                  <hi>Gal.</hi> 5.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</note> let Men fan<g ref="char:EOLhyphen"/>ſie what they pleaſe of their being in the Spirit, if their Lives and Actions are not con<g ref="char:EOLhyphen"/>formable to the Temper of that Goſpel which is to be their Rule; If their ſtiffneſs to their own Sentiments makes them value and conſi<g ref="char:EOLhyphen"/>der none but themſelves; If their Zeal for their
+<pb n="14" facs="tcp:97013:10"/>own Sect or Opinion makes them exclude all others from their Charity, who are not of their own Communion and Party: If that <hi>Love</hi> which is ſuch a peculiar Mark and Character of a Chriſtian, is not extended even to thoſe who perhaps may little deſerve it at their hands; If inſtead of that <hi>Joy, Peace, Long-ſuf<g ref="char:EOLhyphen"/>fering, Gentleneſs, Goodneſs, Faith,</hi> which are all the beauties and excellencies of a Chriſtian Life, they are full of <hi>Hatreds, Variances, Emu<g ref="char:EOLhyphen"/>lations, Strifes;</hi> If inſtead of that <hi>Meekneſs and Temperance,</hi> which are Vertues that make us eaſie both to our ſelves and others, they are guilty of <hi>Envyings, Murthers, Drunkenneſs, Re<g ref="char:EOLhyphen"/>vellings,</hi> and ſuch like: In a word, if Mens inward Temper or outward Deportment be ſuch as carries them to ſuch extreams as are inconſiſtent with the Duties which the reveal<g ref="char:EOLhyphen"/>ed Will of God has enjoyned us, let ſuch, of what Church, Sect, or Opinion ſoever they may be, pretend to what they pleaſe, and gild over their Actions with fine and godly Words, they are ſuch,
+<note place="margin">
+                  <hi>Ver.</hi> 19.</note> however, to whom we may juſtly apply that of St. <hi>Jude, Theſe be they who ſeparate themſelves, being Senſual, not having the Spirit.</hi>
+            </p>
+            <p>And now I come, 3dly, to ſhew the Obli<g ref="char:EOLhyphen"/>gations which lie on us all of <hi>walking in the
+<pb n="15" facs="tcp:97013:10"/>Spirit:</hi> The <hi>walking in the Spirit</hi> being, as I have already ſhewn, the conforming our ſelves to the Rules and Precepts of the Goſpel, Our Obligations of doing this, will appear,</p>
+            <p n="1">1ſt, <hi>From the reaſonableneſs that there is of living according to what we believe.</hi>
+            </p>
+            <p n="2">2dly, <hi>From the eaſineſs of the Things enjoyned us.</hi>
+            </p>
+            <p>And laſtly, <hi>Becauſe this wholly tends to our own Intereſt and Advantage.</hi>
+            </p>
+            <p n="1">1. Then I ſhall ſhew the Obligations of <hi>walk<g ref="char:EOLhyphen"/>ing in the Spirit, from the reaſonableneſs of liv<g ref="char:EOLhyphen"/>ing according to what we believe.</hi> The firm ad<g ref="char:EOLhyphen"/>hering to what a Man believes, and the or<g ref="char:EOLhyphen"/>dering his Life according to his Belief, is a thing ſo very decent and pleaſing in the Eyes of all Mankind, that it is natural for one to com<g ref="char:EOLhyphen"/>mend ſuch a practice even in that very Man whoſe Opinion we may otherwiſe condemn. On the other ſide, let a Man be never ſo Or<g ref="char:EOLhyphen"/>thodox in his Faith, if he is ſcandalous and ir<g ref="char:EOLhyphen"/>regular in his Life, this raiſes ſuch an inward ſcorn and diſeſteem in the Breaſt of all good and underſtanding Men, as is ſufficient to te<g ref="char:EOLhyphen"/>ſtiſie what a low and mean Opinion the World generally has of ſuch a Perſon: For when there
+<pb n="16" facs="tcp:97013:11"/>is not that harmony which there ſhould be be<g ref="char:EOLhyphen"/>twixt ones belief and practice; when the Ho<g ref="char:EOLhyphen"/>lineſs of Mens Lives does not anſwer the purity of that Religion they profeſs; it either argues a wonderful falſeneſs and deſign in deſiring to ap<g ref="char:EOLhyphen"/>pear otherwiſe than they really are; or a ſtrange inſenſibility and neglect not to mind that which of all other things is their greateſt concern. 'Tis mean and pitiful to be a bare Pretender in any thing; but it is really wicked and un<g ref="char:EOLhyphen"/>accountable to be ſo in matters of Religion, where the greateſt ſincerity of Mind is requi<g ref="char:EOLhyphen"/>red; and believe me, all is but Hypocriſie and folly without it. All Religion naturally ſuppoſes an Obedience to the Things it enjoyns; and Chriſtianity is ſo very exact in this, above all others, that <hi>whoſoever ſhall keep the whole Law of it, and yet oſſend in one point, he is guil<g ref="char:EOLhyphen"/>ty of all.</hi> If thoſe therefore who call themſelves Chriſtians, are really perſwaded of the truth of the Goſpel, is it not moſt reaſonable they ſhould be of that temper it requires? If Men are convinced of the excellency of the Precepts which Chriſt has commanded, is it any thing leſs than Madneſs not to follow them to the uttermoſt? And what a ſtrange degree of folly is it in them not to make that the conſtant Rule of their Lives, which they themſelves
+<pb n="17" facs="tcp:97013:11"/>confeſs to be the only means of their Happineſs?</p>
+            <p>But 2dly, Our obligations of <hi>walking in the Spirit, will appear from the eaſineſs of the things enjoyned us.</hi> Chriſtianity is a thing ſo very plain and ſimple, that never any Religion yet propoſed ſo great Rewards, and yet occaſions fewer difficulties to obtain what is promiſed. Every thing it commands is eaſie and natural, either what directly tends to the Peace of the World, or the Reformation of our ſelves: And that which ſeems moſt harſh and diſſi<g ref="char:EOLhyphen"/>cult, is quickly overcome, when one ſets heartily and ſincerely about it. Of the many Religions which have appeared in the ſe<g ref="char:EOLhyphen"/>veral Ages of the World, ſome of them have tied up their Votaries to ſuch ſevere and hard performances, whereof many have been ſo cru<g ref="char:EOLhyphen"/>el and unaccountable, that Nature ſeems to ſhrink even at the very thoughts of repeating them. As for the Religion of the <hi>Jews,</hi> which of all others has the neareſt relation to us Chri<g ref="char:EOLhyphen"/>ſtians, there was even in that ſuch a multipli<g ref="char:EOLhyphen"/>city of Legal Rights and Obſervances, ſo many attendances upon Feaſts at <hi>Jeruſalem, which was the only place of Worſhip,</hi> and whither Men were bound to repair ſo many times a Year, as put them upon Journies no leſs tedi<g ref="char:EOLhyphen"/>ous than expenſive; and from which nothing
+<pb n="18" facs="tcp:97013:12"/>but an invincible neceſſity could excuſe them. But the Goſpel, tho' it raiſes Men to a more noble and excellent way of Devotion, yet re<g ref="char:EOLhyphen"/>quires none of thoſe ſervile and bodily Labours to perform it: for inſtead of the laying on us ſuch things as the weight of Legal Rights and Obſervances, it only requires an inward diſ<g ref="char:EOLhyphen"/>poſition and a temper of Mind, <hi>the Worſhipping God in Spirit and Truth, for the Father ſeeketh ſuch to Worſhip him.</hi>
+               <note place="margin">
+                  <hi>John</hi> 4.23.</note> Inſtead of forcing us to take long Journies thro' the whole Kingdom to a fixt place of Worſhip (which was exactly the caſe of the <hi>Jews</hi>) we may now ſerve God at home here in our Chapels, and in our Churches. Inſtead of the <hi>Blood of Bulls and Goats,</hi> as an atonement for Sin, God only re<g ref="char:EOLhyphen"/>quires now of us a <hi>Broken and a Contrite heart;</hi> And the moſt acceptable Offerings and Obla<g ref="char:EOLhyphen"/>tions we can make him, are the Sacrifices of Prayers and Thanksgivings. In a word, the things expected of us under the Goſpel being pure<g ref="char:EOLhyphen"/>ly Spiritual, the forming within us a new Crea<g ref="char:EOLhyphen"/>ture, by Crucifying the Fleſh, with the affecti<g ref="char:EOLhyphen"/>ons and Luſts; This is a work which may be done in all times and Places; and the difficul<g ref="char:EOLhyphen"/>ty of it is eaſily removed, when we our ſelves are pleaſed but to uſe the means which are preſcribed.</p>
+            <pb n="19" facs="tcp:97013:12"/>
+            <p>But laſtly, our Obligations of walking in the <hi>Spirit,</hi> will farther appear, <hi>when, beſide the eaſi<g ref="char:EOLhyphen"/>neſs of the things enjoyned us, it wholly tends to our own Intereſt and Advantage.</hi> As God in his Wiſdom endued Man above all other Crea<g ref="char:EOLhyphen"/>tures with a power of knowing and perform<g ref="char:EOLhyphen"/>ing his Will; ſo again, by a Goodneſs as great as his Wiſdom, he has made him the promiſe of eternal Felicity, to encourage him in the performance of his Duty: we therefore ſee the end of all our juſt and good actions ſeem chiefly deſigned by God to our own Intereſt and Advantage. For tho' God, who is the Fountain of all Goodneſs, has declared himſelf to be pleaſed with the juſtice and uprightneſs of our Actions; yet, as he is a Being infinitely happy in himſelf, he cannot any ways be ſuppo<g ref="char:EOLhyphen"/>ſed to ſtand in need of the Services of his Crea<g ref="char:EOLhyphen"/>tures: His Glory is not augmented by our poor Prayers and Thanksgivings; nor is his Great<g ref="char:EOLhyphen"/>neſs diminiſhed by any neglect of our Duties. <hi>Can a Man</hi> (Job 22.2, 3.) <hi>be proſitable to God, as he that is Wiſe may be proſitable to himſelf? Is it any pleaſure to the Almighty that thou art Righ<g ref="char:EOLhyphen"/>teous?
+<note place="margin">
+                     <hi>Chap.</hi> 35.6, 7.</note> Or is it gain to him that thou makeſt thy way perfect? If thou Sinneſt, what doſt thou againſt him? And if thy Tranſgreſſions be multiplied, what doſt thou unto him? If thou art Righteous,
+<pb n="20" facs="tcp:97013:13"/>what giveſt thou him, or what receiveth he at thy hands?</hi> So then we ſee that the performance of the things which the Goſpel requires of us, tends wholly to our own advantage: Which conſide<g ref="char:EOLhyphen"/>ration alone ſhould be ſufficient powerfully to engage us to do the things that are requiſite to obtain it: For tho' Arguments drawn from ones Intereſt are not always good and proper to be urged in things relating to this World; yet they are ſome of the beſt which can be uſed in reſpect of the happineſs of the next. Since God therefore has created us all with the de<g ref="char:EOLhyphen"/>ſign of making us eternally happy with him on the conditions required at our hands, this ſhould ſtir us up to ſuch ſuitable and grateful returns of governing our Lives and Actions, according to the Rules he has preſcribed us, that we may all at laſt be partakers of thoſe endleſs Bleſſings and Joys he intends us. If the <hi>walking in the Spirit</hi> is the only way of con<g ref="char:EOLhyphen"/>ducting us to Glory, this ſhould make us all <hi>become the Servants of God, that having our Fruit unto Holineſs,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 6.22.</note> 
+               <hi>we may have our end everlaſting Life.</hi>
+            </p>
+            <p>What is ſaid to all at large, is applied but by few to themſelves; ſo that tho' a general Diſcourſe, like this, may be moſt pleaſing to Men, becauſe it touches them leaſt, yet 'tis on<g ref="char:EOLhyphen"/>ly
+<pb n="21" facs="tcp:97013:13"/>a particular and an affectionate application of things to our own Perſons and Circumſtan<g ref="char:EOLhyphen"/>ces, which leaves the moſt ſenſible and laſting Im<g ref="char:EOLhyphen"/>preſſions upon us: Having therefore ſhewn what is meant by the <hi>Spirit,</hi> and ſet forth the ſeveral Obligations which lie on us all to walk in the <hi>Spirit,</hi> I ſhall now conclude this Diſcourſe with ſome cloſe reflections on our own Lives and Practices.</p>
+            <p>'Tis the peculiar Bleſſing of us who are now met together in this place, that as we are all Profeſſors of Chriſtianity, ſo we declare our ſelves likewiſe Members of that Reformed part of it, which is eſtabliſhed in this Nation, and which is both the ſtrength and glory of the Reformation: But now let us examine our ſelves a little in that double relation we have both as we are Chriſtians and Members of this particular Church. The things to which the Goſpel obliges us are as plain in themſelves as they are eaſie in the performance of them: The aſſiſtances of Grace which we receive are many, and the promiſes of Reward are unſpeak<g ref="char:EOLhyphen"/>able: We pretend all to be ſo far from disbe<g ref="char:EOLhyphen"/>lieving the Goſpel, that there's not a Man a<g ref="char:EOLhyphen"/>mongſt us, but would think it the higheſt af<g ref="char:EOLhyphen"/>front not to be thought a good Chriſtian: But now after all, <hi>If we live in the Spirit, do we alſo
+<pb n="22" facs="tcp:97013:14"/>walk in the Spirit?</hi> Does the ſenſe of our Du<g ref="char:EOLhyphen"/>ty ſtir us up to the performance of it? and does the Holineſs of our Lives anſwer the purity of that Religion we profeſs? Has Chriſtianity, I ask you, that happy and bleſſed effect upon us as to make us every way better than thoſe who either never heard or believed it? and is the di<g ref="char:EOLhyphen"/>ſtinction as plain and as viſible as it ought to be betwixt us and the reſt of the World, for Piety and Vertue, as much as our advantages to God<g ref="char:EOLhyphen"/>lineſs are greater and more excellent than theirs? Have we that true ſenſe of God and Religion which becomes the Greatneſs and Majeſty of the one? and do we order our Lives with that circumſpection and care, as we may not bring the leaſt reproach or diſhonour on the other? Have we God always in our thoughts, and do we daily offer up unto him our Sacrifices of Prayers and Thanksgivings? Do we in our Ad<g ref="char:EOLhyphen"/>dreſſes to him heartily bewail our own Sins, and the many occaſions we may have given others of offending him? Do we intercede with God for others as well as for our ſelves? and does the ſenſe of the Miſeries and Wants to which Mankind is ſubject, kindle in us that univerſal and Chriſtian Charity, as to beg his bleſſing on all Men, of what Nation, Country, Religion, Sect, Principle, or Opinion they may be? Are
+<pb n="23" facs="tcp:97013:14"/>we thankful to God for the leaſt Mercy we re<g ref="char:EOLhyphen"/>ceive? and are we reſigned and eaſie in the meaneſt condition we may be in? Do we ſtudy to glorifie God by all means? and do we em<g ref="char:EOLhyphen"/>ploy our whole time for the Salvation of our Souls? Do we live and act as becomes thoſe who really think there are Rewards and Puniſh<g ref="char:EOLhyphen"/>ments for Men in the next Life, and that we muſt all be for ever happy or for ever mi<g ref="char:EOLhyphen"/>ſerable in another World, as we behave our ſelves here in this? Do the Thoughts and Conſideration of this work in us that ſerious care and concern as to be always earneſt about our own happineſs, and not to do any thing by which we may miſs that Glory which we hope to poſſeſs? Do we mind that great and excellent Rule of Chriſtianity,
+<note place="margin">
+                  <hi>Mat.</hi> 7.12.</note> of <hi>doing to others as we would they ſhould do unto us?</hi> and do we make a Conſcience of not promoting our Ho<g ref="char:EOLhyphen"/>nour, Riches, Reputation, or Intereſt, by any other means than what Religion preſcribes and juſtifies? Do we make the Commands of the Goſpel the Rule of our Lives? and in all our Actions have we a reſpect to the Precepts and Example of Chriſt?
+<note place="margin">
+                  <hi>Phil.</hi> 2.5.</note> Is <hi>that mind in us which was alſo in Chriſt Jeſus?</hi> and do we imitate that Humility of which he made himſelf ſuch a won<g ref="char:EOLhyphen"/>derful Pattern and Example to the World? Is
+<pb n="24" facs="tcp:97013:15"/>that <hi>Love, by which all Men ſhall know that we are his Diſciples,</hi> ſo firm and univerſal in us, that it goes much beyond that of the <hi>Publicans,</hi> by being extended to Enemies as well as Friends? Does that <hi>Joy, Peace, Long-ſuffering,</hi> that <hi>Gen<g ref="char:EOLhyphen"/>tleneſs, Goodneſs, Faith,</hi> that <hi>Meekneſs and Tem<g ref="char:EOLhyphen"/>perance,</hi> which are all the Fruits of the Spirit; do they, I ſay, appear as eminently in our Lives, as they are all really neceſſary to our happineſs? Are we Merciful, and are we Forgiving, and do we chearfully relieve the neceſſities of thoſe who ſtand in need of our Charity, conſider<g ref="char:EOLhyphen"/>ing, <hi>That we our ſelves are alſo in the Body?</hi> Are we moderate in our Deſires, Modeſt in our Behaviours, Peaceful in our Tempers, Juſt to our Promiſes, and exemplary in our Lives? Theſe are the general Duties of Chriſtians, and it will be well if our Hearts condemn us not, when with a ſevere and ſearching care we ex<g ref="char:EOLhyphen"/>amine our ſelves, how conformable our Lives have been to theſe Rules.</p>
+            <p>Let us now paſs on from that general noti<g ref="char:EOLhyphen"/>on of our being Chriſtians, to ſee how we live and act as we are Members of this particular Church. We all value our ſelves, I ſuppoſe, upon our being of the <hi>Church of England,</hi> (and it is a bleſſing for which next to the Redempti<g ref="char:EOLhyphen"/>on of the World, we ſtand moſt indebted to
+<pb n="25" facs="tcp:97013:15"/>Heaven) but are we as Holy in our Lives as we are Orthodox in our Faith? And are we as like the Primitive Chriſtians for Piety and Zeal, as much as our Religion and Worſhip, of any other in the World, comes the neareſt to theirs? We come once a Week at leaſt into this, or ſome other Houſe of God, and we do well in it; but do not many of us by our heedleſneſs and unconcernedneſs too often <hi>Offer up the Sacrifices of Fools, not conſidering that they do Evil?</hi> Do we mind the buſineſs we are here about, and the greatneſs of that Majeſty, before which we are now in a more particular manner preſent? Do we think that God is in this place, and do we bring with us ſuch thoughts as ſuit with the Ho<g ref="char:EOLhyphen"/>lineſs of his Houſe? Do we draw near to God with our Hearts, as well as with our Lips? And have we upon our Minds and Conſciences that true ſenſe of his Goodneſs, Juſtice, Power, and Mercy, as may at the ſame time raiſe in us both a Love and a Fear of his Name? We fall down formally here upon our Knees, and, in our Confeſſion, we tell God roundly to his Face, <hi>That we have erred and ſtrayed from his ways like loſt Sheep; That we have left undone the things which we ought to have done; and that we have done the things which we ought not to have done; and that there is no health in us;</hi> nay, we go
+<pb n="26" facs="tcp:97013:16"/>higher yet,
+<note place="margin">Communion Service.</note> and tell him, that <hi>we earneſtly re<g ref="char:EOLhyphen"/>pent, and are heartily ſorry for our miſdoings; that the remembrance of them is grievous unto us, and that the burthen of them is intolerable:</hi> But have we now all this while that hearty contrition and inward ſorrow, that uneaſineſs and diſſatisfacti<g ref="char:EOLhyphen"/>on in our ſelves which becomes thoſe who are truly Penitent for their Offences? After theſe large Confeſſions of our Follies and Sins, do we ſhew a hatred of them by the Reformation of our Lives? And are we as careful to amend as we are always ready to confeſs our Miſdoings? Do we conſider that God is not to be mocked, and that when we come here into his preſence, and pretend to confeſs our Sins to him, with<g ref="char:EOLhyphen"/>out any thoughts of amending them, that then we offer up the higheſt Affront to Heaven, and juſtly provoke God's Vengeance againſt us, for adding <hi>Hypocriſie</hi> to our other <hi>Tranſgreſſions?</hi>
+            </p>
+            <p>As for <hi>Baptiſm</hi> and the <hi>Supper of the Lord,</hi> how little do we mind the Vows and Promiſes which we have made in the one, and with what a coldneſs and unconcernedneſs do too many of us come to the other? we promiſe in our <hi>Baptiſm</hi> to <hi>Renounce the Devil and all his Works, the vain Pomp and Glory of the World, weth all Covetous deſires of the ſame:</hi> But now where are the Men amongſt us who are not lead away Captive by
+<pb n="27" facs="tcp:97013:16"/>them all? Where is that reſignation we preten<g ref="char:EOLhyphen"/>ded when we were admitted Members of Chriſts Flock? and to whom does the Humility of the Croſs appear more glorious than all the Vani<g ref="char:EOLhyphen"/>ties of the World? Where is the dying to Sin and the living to Righteouſneſs? And how few are there, notwithſtanding all their Promiſes, who Manfully fight under Chriſt's Banner, and continue his <hi>faithful Soldiers and Servants to their lives end?</hi>
+            </p>
+            <p>As for the Sacrament of the <hi>Lord's Supper,</hi> this Church invites us to it by its Miniſters <hi>in the name of God, calls us in Chriſt's behalf,</hi>
+               <note place="margin">Communion Service.</note> 
+               <hi>exhorts us, as we love our own Salvation, that we will be Partakers of this Holy Communion.</hi> Now we, who pretend to be of this Church, do we mind the earneſt and godly deſires of it? Do we take all opportunities of coming to that Holy Ta<g ref="char:EOLhyphen"/>ble,
+<note place="margin">1 <hi>Cor.</hi> 11.24, 26.</note> and <hi>thus ſet forth the Lord's Death till he comes?</hi> Do not many of us ſeldom or never ap<g ref="char:EOLhyphen"/>pear there? and inſtead of <hi>Doing this often in remembrance of him,</hi> by reaſon of an extraor<g ref="char:EOLhyphen"/>dinary Coldneſs and ſome idle excuſes, commu<g ref="char:EOLhyphen"/>nicate but once or twice in our Lives? As for the others again of us who are often preſent at thoſe Holy Myſteries, do we with a true peni<g ref="char:EOLhyphen"/>tent Heart, and a lively Faith, receive that Ho<g ref="char:EOLhyphen"/>ly Sacrament? Do we come with that ſeriouſ<g ref="char:EOLhyphen"/>neſs
+<pb n="28" facs="tcp:97013:17"/>and due preparation of Soul, which be<g ref="char:EOLhyphen"/>comes the moſt high and ſolemn part of our Religion? <hi>Do we judge our ſelves that we be not judged of the Lord?</hi> Have we a deteſtation of Sin, and a hearty Repentance for the Follies of our Lives? Have we a flaming deſire after God and Heaven in our ſelves? and have we a perfect Love and Charity for others?</p>
+            <p>In all the other acts and duties of our Reli<g ref="char:EOLhyphen"/>gion, have we that tenderneſs and concern for it, as really becomes thoſe who pretend ſo much the Honour of God, and the proſperity of this Church? We ſay indeed (and 'tis moſt true) that this Church, for its conſtitution and Do<g ref="char:EOLhyphen"/>ctrine, is <hi>the Joy of the whole Earth,</hi> but do we endeavour to give it a farther luſtre and beau<g ref="char:EOLhyphen"/>ty by the excellency of our Lives, and to raiſe it from that degree of ſcorn and contempt, which the looſeneſs and ſcandals of too many of its Members have brought on it? There is indeed every where ſuch a wonderful coldneſs in Religion, and ſuch a corruption of man<g ref="char:EOLhyphen"/>ners in the World; ſo much pretence to Ho<g ref="char:EOLhyphen"/>nour and Conſcience, and ſo little regard to either; ſuch a general Infection, and ſuch a de<g ref="char:EOLhyphen"/>cay of Piety in all ſorts of Men, that I cannot indeed ſay, That thoſe of our Communion are the worſt, becauſe all Parties are ſo extremely
+<pb n="29" facs="tcp:97013:17"/>bad amongſt us: But however, do not we lie too much open to cenſure; and have not many of us given the World too great reaſon to think that ſome of us are arri<g ref="char:EOLhyphen"/>ved to that degree of hardneſs and Impiety, that we can now go on and Sin without either fear or ſhame. Do we conſider therefore what Reproaches we bring upon Religion and our ſelves, what diſhonour to God, and what par<g ref="char:EOLhyphen"/>ticular diſſervice to this Church, by thus ex<g ref="char:EOLhyphen"/>poſing it to the laughter and obloquy of its Enemies on all ſides, who can never get any advantage over it, but what ſprings from our own Indiſcretion and Follies?</p>
+            <p>This is a thing, which as it is apt to beget in one very melancholy thoughts, ſo it would now furniſh me with vaſt variety of Diſcourſe; but inſtead of asking any more ſearching Que<g ref="char:EOLhyphen"/>ſtions (which may look like ſo many Re<g ref="char:EOLhyphen"/>proaches on our Lives and Practices) I ſhall conclude all with my hearty Prayers to God; That it would pleaſe him to give us his Grace for the good Conduct and Government of our ſelves, both as we are Chriſtians, and Members of this particular Church.</p>
+            <p>That it would pleaſe him, that as we <hi>live in the Spirit, we may alſo all of us walk in the Spirit;</hi> And that having ſo many helps and
+<pb n="30" facs="tcp:97013:18"/>aſſiſtances for the performance of our Duties, we may ever make ſuch returns of Vertue and Godlineſs as become us; ſo that they who are bad may grow better, and that thoſe who are already Good, may go on to that Perfection to which they aſpire. Laſtly, that all of us being <hi>made perfect by the Spirit</hi> here, may reign with God eternally in Heaven hereafter.</p>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Jude</hi> 24, 25.</bibl>
+                  <p>
+                     <hi>Now unto him who is able to keep you from falling, and to preſent you faultleſs before the Preſence of his Glory with exceeding Joy.</hi>
+                  </p>
+                  <p>
+                     <hi>To the only Wiſe God our Saviour, be Glory and Majeſty, Dominion and Power, both now and ever.</hi> Amen.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
